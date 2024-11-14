@@ -1,0 +1,1 @@
+[{"nombre": "leche", "cantidad": 5}, {"nombre": "banana ", "cantidad": 2}, {"nombre": "chocolate", "cantidad": 9}, {"nombre": "cafe", "cantidad": 4}, {"nombre": "Frutilla", "cantidad": 1000}, {"nombre": "pan", "cantidad": 10}, {"nombre": "aceite", "cantidad": 2}]
